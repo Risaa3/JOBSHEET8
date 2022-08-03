@@ -1,0 +1,2 @@
+rootProject.name = "RISA"
+include ':app'
